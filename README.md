@@ -34,7 +34,8 @@ Mobile View
 
 ### Links
 
-- Live Site URL: [https://sangeethvelu.github.io/Testimonials-Grid/](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [https://sangeethvelu.github.io/Testimonials-Grid/](https://sangeethvelu.github.io/Testimonials-Grid/)
 
 ## My process
 
