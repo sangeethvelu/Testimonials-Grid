@@ -6,7 +6,6 @@
 
 html{
     font-size: 62.5%;
-    background-color: hsl(0, 0%, 81%);
     scroll-behavior: smooth;
 }
 
@@ -21,6 +20,9 @@ body{
 .hero-section{
     width: min(120rem, 90%);
     margin: 3rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero{
